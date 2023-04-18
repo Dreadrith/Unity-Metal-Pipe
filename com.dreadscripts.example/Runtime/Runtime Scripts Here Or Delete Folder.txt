@@ -1,0 +1,1 @@
+Runtime scripts are for example scripts that do not use the 'Editor' namespace or run in playmode such as Monobehaviours
