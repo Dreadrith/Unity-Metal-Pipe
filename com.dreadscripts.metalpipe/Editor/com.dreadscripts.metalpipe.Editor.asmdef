@@ -1,8 +1,6 @@
 {
-    "name": "com.dreadscripts.example.Editor",
-    "references": [
-        "GUID:a901db9cc3370984ab08d9a02a9eb0a0"
-    ],
+    "name": "com.dreadscripts.metalpipe.Editor",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

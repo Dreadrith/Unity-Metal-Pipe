@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Dreadrith",
+    "email": "DreadScripts@gmail.com",
+    "url": "https://github.com/Dreadrith"
+  },
+  "name": "com.dreadscripts.metalpipe",
+  "displayName": "MetalPipe",
+  "version": "1.0.0",
+  "description": "A metal pipe window to soothe your ears with the beautiful sound of a metal pipe.",
+  "keywords": [
+  "Soothing",
+  "Beautiful",
+  "Hardcode"
+  ],
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "type": "tool"
+}

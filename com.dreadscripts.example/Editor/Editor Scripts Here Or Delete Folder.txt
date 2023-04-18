@@ -1,1 +1,0 @@
-Editor scripts are all scripts that need to use the 'Editor' namespace, such as Editor Windows. No Monobehaviours!
