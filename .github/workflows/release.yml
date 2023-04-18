@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
   push:
     branches: main
-    paths: com.dreadscripts.example/**
+    paths: com.dreadscripts.metalpipe/**
 
 env:
-  packageName: "com.dreadscripts.example"
-  packageDisplayName: "DreadExample"
+  packageName: "com.dreadscripts.metalpipe"
+  packageDisplayName: "MetalPipe"
 
 permissions:
   contents: write
